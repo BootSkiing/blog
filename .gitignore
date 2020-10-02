@@ -2,7 +2,6 @@ bm.conf
 build
 !internal/build
 meta
-posts
 static
 *.swp
 themes/selected
